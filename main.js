@@ -141,4 +141,4 @@ button5.onclick = function () {
     let tong = soHangDV + soHangChuc;
 
     result5.innerHTML = "Tổng 2 ký số : " + soHangChuc + " + " + soHangDV + " = " + tong;
-};
+}
